@@ -1,6 +1,6 @@
 # apollobattery
 PYTHON Scrapy
-1. Install pythong 
+1. Install python 
 2. Install Scrapy
 3. Install Crawlera
 4. Intall spider
